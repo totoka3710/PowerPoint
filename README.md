@@ -23,5 +23,5 @@ PowerPointのファイルを保存するために設立されたリポジトリ�
 [Qumcum発表会スライド音声付](archive/Qumcum発表会スライド音声付.pptx)  
 [プロI夏休み課題(全PC対応版)](archive/31_木村湊(全PC対応版).PPTX)  
 [Qumcum発表会2スライド](Qumcum発表会2スライド.pptx)←一応完成かなー  
-[Qumcum発表会2スライドVOICEVOX音声付](Qumcum発表会2スライドwithVoice.pptx)←製作途中
-[Qumcum発表会2スライドこだわり版](Qumcum発表会2スライドこだわり版.pptx)←これから制作に取り掛かりますー  
+[Qumcum発表会2スライドVOICEVOX音声付](Qumcum発表会2スライドwithVoice.pptx)←完成！    [YouTube](https://www.youtube.com/watch?v=Qg4W4eHl4C8&list=PLKAVBctxgw8Q&index=5 )  
+[Qumcum発表会2スライドこだわり版](Qumcum発表会2スライドこだわり版.pptx)←こ完成！！    [YouTube](https://www.youtube.com/watch?v=vpQyhJjYmtg&list=PLKAVBctxgw8Q&index=6 )  
